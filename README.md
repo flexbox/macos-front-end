@@ -2,7 +2,7 @@
 
 Here is the list of all the apps I use as a front-end developer to be productive
 
-![](macos-front-end.mindnode/QuickLook/Preview.jpg)
+[![](macos-front-end.mindnode/QuickLook/Preview.jpg)](https://my.mindnode.com/zRQUDVrKyQGW2TxZ33k8szsZEynEsaoKHeLWx2XB)
 
 ## Web
 
@@ -42,6 +42,7 @@ Here is the list of all the apps I use as a front-end developer to be productive
 - djay Pro
 - Dragand
 - GoPro Quik
+- [Miro Video Converter](http://www.mirovideoconverter.com/)
 - Spotify
 - Steam
 - Stremio
@@ -68,17 +69,17 @@ Here is the list of all the apps I use as a front-end developer to be productive
 - RescueTime
 - Safebox
 - Spectacle
-- The Unarchiver
+- [The Unarchiver 🛍](https://itunes.apple.com/us/app/the-unarchiver/id425424353?mt=12)
 - TogglDesktop
 
 ## Design
 
-- Google Photos
+- [Google Photos](https://photos.google.com/apps)
 - ImageAlpha
 - ImageOptim
 - JPEGmini
 - Photoshop
-- Sip 🌟
+- [Sip](https://sipapp.io/) 🌟
 - Sketch
 - Sketch Toolbox
 - Skitch
