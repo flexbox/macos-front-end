@@ -29,6 +29,7 @@ Here is the list of all the apps I use as a front-end developer to be productive
 - GitBook
 - GitUp
 - GitX-dev
+- [Hyper™](https://hyper.is/) A terminal built on web technologies with HTML/JS/CSS. Like Atom you can customise almost everything.
 - Insomnia
 - iTerm 🌟
 - ndm
