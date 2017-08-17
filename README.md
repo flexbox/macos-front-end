@@ -2,7 +2,7 @@
 
 Here is the list of all the apps I use to be efficients as a front-end developer.
 
-> Design better, code faster and ship daily.
+> Design better, code faster & ship daily.
 
 [![](macos-front-end.mindnode/QuickLook/Preview.jpg)](https://my.mindnode.com/zRQUDVrKyQGW2TxZ33k8szsZEynEsaoKHeLWx2XB)
 
@@ -31,9 +31,9 @@ Here is the list of all the apps I use to be efficients as a front-end developer
 - ImageOptim
 - JPEGmini
 - [MindNode 🛍💰](https://itunes.apple.com/fr/app/mindnode-2-delightful-mind-mapping/id992076693?l=en&mt=12)
-- Photoshop
+- [Photoshop 💰]()
 - [Sip 🌟](https://sipapp.io/) The best color picker for Mac for collecting, organizing & sharing palettes.
-- Sketch
+- [Sketch 💰]()
 - [Sketchpacks](https://www.sketchpacks.com/) Browse, manage, and auto-update your Sketch plugins from the menu bar.
 - Skitch
 
@@ -48,13 +48,12 @@ Here is the list of all the apps I use to be efficients as a front-end developer
 - TorBrowser
 - Transmission
 - TunnelBear
-- TweetDeck
 
 ## Communication
 
-- Skype
+- [Skype](https://www.skype.com) text message and video chat application.
 - [Slack 🛍](https://itunes.apple.com/fr/app/slack/id803453959?l=en&mt=12)
-- [TweetDeck 🛍](https://itunes.apple.com/fr/app/tweetdeck-by-twitter/id485812721?l=en&mt=12)
+- [TweetDeck 🛍](https://itunes.apple.com/fr/app/tweetdeck-by-twitter/id485812721?l=en&mt=12) Twitter client.
 - [WhatsApp 🛍](https://itunes.apple.com/fr/app/whatsapp-desktop/id1147396723?l=en&mt=12)
 
 ## Widget
@@ -62,16 +61,14 @@ Here is the list of all the apps I use to be efficients as a front-end developer
 - Battery Monitor
 - CountDowns
 
-## Multimedia
+## Music & Video
 
-- [djay Pro 🛍💰](https://itunes.apple.com/fr/app/djay-pro/id947578651?l=en&mt=12)
-- Dragand
-- GoPro Quik
-- [Miro Video Converter](http://www.mirovideoconverter.com/)
-- Spotify
-- Steam
-- Stremio
-- VLC
+- __[djay Pro 🛍💰](https://itunes.apple.com/fr/app/djay-pro/id947578651?l=en&mt=12)__ The #1 DJ Software for performing DJs, integrated with iTunes and Spotify.
+- __[Dragand](http://dragand.watch/)__ Download your subtitles of your favorite series by drag and drop.
+- __[Miro Video Converter](http://www.mirovideoconverter.com/)__ Convert almost any video to `MP4`, `WebM`, `Ogg`…
+- __[Spotify](https://www.spotify.com)__ A digital music service that gives you access to millions of songs.
+- __[Stremio](https://www.strem.io/)__ Watch videos, movies, TV series and TV channels instantly.
+- __[VLC](https://www.videolan.org/vlc/download-macosx.fr.html)__ Free and open-source media player.
 
 ## Misc
 
@@ -87,7 +84,7 @@ Here is the list of all the apps I use to be efficients as a front-end developer
 - Grammarly
 - Keybase
 - MindNode
-- Product Hunt
+- [Product Hunt](https://github.com/producthunt/producthunt-osx/) Discover your next favorite thing, surfacing the latest in tech, books, games, and podcasts.
 - RecordIt
 - Rename
 - RescueTime
