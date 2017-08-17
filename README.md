@@ -63,12 +63,12 @@ Here is the list of all the apps I use to be efficients as a front-end developer
 
 ## Music & Video
 
-- __[djay Pro 🛍💰](https://itunes.apple.com/fr/app/djay-pro/id947578651?l=en&mt=12)__ The #1 DJ Software for performing DJs, integrated with iTunes and Spotify.
-- __[Dragand](http://dragand.watch/)__ Download your subtitles of your favorite series by drag and drop.
-- __[Miro Video Converter](http://www.mirovideoconverter.com/)__ Convert almost any video to `MP4`, `WebM`, `Ogg`…
-- __[Spotify](https://www.spotify.com)__ A digital music service that gives you access to millions of songs.
-- __[Stremio](https://www.strem.io/)__ Watch videos, movies, TV series and TV channels instantly.
-- __[VLC](https://www.videolan.org/vlc/download-macosx.fr.html)__ Free and open-source media player.
+- __[djay Pro 🛍💰](https://itunes.apple.com/fr/app/djay-pro/id947578651?l=en&mt=12)__ – The #1 DJ Software for performing DJs, integrated with iTunes and Spotify.
+- __[Dragand](http://dragand.watch/)__ – Download your subtitles of your favorite series by drag and drop.
+- __[Miro Video Converter](http://www.mirovideoconverter.com/)__ – Convert almost any video to `MP4`, `WebM`, `Ogg`…
+- __[Spotify](https://www.spotify.com)__ – A digital music service that gives you access to millions of songs.
+- __[Stremio](https://www.strem.io/)__ – Watch videos, movies, TV series and TV channels instantly.
+- __[VLC](https://www.videolan.org/vlc/download-macosx.fr.html)__ – Free and open-source media player.
 
 ## Misc
 
