@@ -51,15 +51,10 @@ Here is the list of all the apps I use to be efficients as a front-end developer
 
 ## Communication
 
-- [Skype](https://www.skype.com) text message and video chat application.
-- [Slack 🛍](https://itunes.apple.com/fr/app/slack/id803453959?l=en&mt=12)
-- [TweetDeck 🛍](https://itunes.apple.com/fr/app/tweetdeck-by-twitter/id485812721?l=en&mt=12) Twitter client.
-- [WhatsApp 🛍](https://itunes.apple.com/fr/app/whatsapp-desktop/id1147396723?l=en&mt=12)
-
-## Widget
-
-- Battery Monitor
-- CountDowns
+- __[Skype](https://www.skype.com)__ – Text message and video chat application.
+- __[Slack 🛍](https://itunes.apple.com/fr/app/slack/id803453959?l=en&mt=12)__ – All your communication together in one place.
+- __[TweetDeck 🛍](https://itunes.apple.com/fr/app/tweetdeck-by-twitter/id485812721?l=en&mt=12)__ – Twitter client.
+- __[WhatsApp 🛍](https://itunes.apple.com/fr/app/whatsapp-desktop/id1147396723?l=en&mt=12)__ – Stay in youch with family and friends.
 
 ## Music & Video
 
