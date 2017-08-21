@@ -26,16 +26,15 @@ Here is the list of all the apps I use to be efficients as a front-end developer
 
 ## Design
 
-- [Google Photos](https://photos.google.com/apps)
-- ImageAlpha
-- ImageOptim
-- JPEGmini
-- [MindNode 🛍💰](https://itunes.apple.com/fr/app/mindnode-2-delightful-mind-mapping/id992076693?l=en&mt=12)
-- [Photoshop 💰]()
-- [Sip 🌟](https://sipapp.io/) The best color picker for Mac for collecting, organizing & sharing palettes.
-- [Sketch 💰]()
-- [Sketchpacks](https://www.sketchpacks.com/) Browse, manage, and auto-update your Sketch plugins from the menu bar.
-- Skitch
+- __[Google Photos](https://photos.google.com/apps)__ – Free, unlimited storage for photos up to 16 megapixels and videos up to 1080p resolution.
+- __[ImageAlpha](https://pngmini.com/)__ – Reduces file sizes of 24-bit `PNG`.
+- __[ImageOptim](https://imageoptim.com/)__ – Excellent tool for publishing images on the web.
+- __[JPEGmini 🛍💰](https://itunes.apple.com/fr/app/jpegmini/id498944723?l=en&mt=12)__ – Reduce photo files size by up to 80% without compromising quality.
+- __[MindNode 🛍💰](https://itunes.apple.com/fr/app/mindnode-2-delightful-mind-mapping/id992076693?l=en&mt=12)__ – Delightful Mind Mapping for Mac, iPad & iPhone.
+- __[Photoshop 💰](http://www.photoshop.com/)__ – Raster graphics editor since 1988.
+- __[Sip 🌟](https://sipapp.io/)__ – The best color picker for Mac for collecting, organizing & sharing palettes.
+- __[Sketch 💰](https://www.sketchapp.com/)__ – Professional digital design for Mac.
+- __[Sketchpacks](https://www.sketchpacks.com/)__ – Browse, manage, and auto-update your Sketch plugins from the menu bar.
 
 ## Web
 
@@ -83,7 +82,6 @@ Here is the list of all the apps I use to be efficients as a front-end developer
 - RecordIt
 - Rename
 - RescueTime
-- Safebox
 - [Spectacle](https://github.com/eczarny/spectacle) Organize your windows without using a mouse.
 - [The Unarchiver 🛍](https://itunes.apple.com/us/app/the-unarchiver/id425424353?mt=12)
 - TogglDesktop
