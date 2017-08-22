@@ -12,7 +12,6 @@ Here is the list of all the apps I use to be efficients as a front-end developer
 - [Cakebrew](https://github.com/brunophilipe/Cakebrew) Manage your Homebrew formulas with style.
 - [Dash 🌟💰](https://kapeli.com/dash) An API Documentation Browser and Code Snippet Manager.
 - GitBook
-- GitUp
 - GitX-dev
 - [Hyper™](https://hyper.is/) A terminal built on web technologies with HTML/JS/CSS. Like Atom you can customise almost everything.
 - [Homebrew](https://github.com/Homebrew) The missing package manager for macOS (in Ruby).
@@ -22,7 +21,6 @@ Here is the list of all the apps I use to be efficients as a front-end developer
 - Postico
 - Sequel Pro
 - Sublime Text 🌟
-- VirtualBox
 
 ## Design
 
@@ -38,15 +36,13 @@ Here is the list of all the apps I use to be efficients as a front-end developer
 
 ## Web
 
-- FirefoxDeveloperEdition
-- Google Chrome
-- Google Chrome Canary
-- Integrity
-- Opera
-- Screaming Frog SEO Spider
-- TorBrowser
-- Transmission
-- TunnelBear
+- __[FirefoxDeveloperEdition](https://www.mozilla.org/com/firefox/developer/)__ – Firefox for web developers.
+- __[Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)__ – Fast, simple and secure web browser, built for the modern web.
+- __[Google Chrome Canary](https://www.google.com/chrome/browser/canary.html)__ – Google Chrome with a golden icon and preview for new debug tools.
+- __[Integrity 🛍](https://itunes.apple.com/fr/app/integrity/id513610341?l=en&mt=12)__ – Scan your website to find broken links.
+- __[Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/)__ – Crawls websites' links, images, CSS, script and apps from an SEO perspective.
+- __[Transmission](https://transmissionbt.com/download/)__ – Simple BitTorrent client.
+- __[TunnelBear](https://www.tunnelbear.com/)__ – Simple, private, free access to the open Internet you.
 
 ## Communication
 
@@ -77,7 +73,6 @@ Here is the list of all the apps I use to be efficients as a front-end developer
 - Flux
 - Grammarly
 - Keybase
-- MindNode
 - [Product Hunt](https://github.com/producthunt/producthunt-osx/) Discover your next favorite thing, surfacing the latest in tech, books, games, and podcasts.
 - RecordIt
 - Rename
