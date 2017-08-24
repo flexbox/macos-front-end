@@ -1,6 +1,6 @@
-# macOS for front-end developers
+# macOS for front-end
 
-Here is the list of all the apps I use to be efficients as a front-end developer.
+Here is the list of all the apps I use to be efficient as a __front-end developer__.
 
 > Design better, code faster & ship daily.
 
@@ -8,19 +8,19 @@ Here is the list of all the apps I use to be efficients as a front-end developer
 
 ## Dev
 
-- Atom 🌟
-- [Cakebrew](https://github.com/brunophilipe/Cakebrew) Manage your Homebrew formulas with style.
-- [Dash 🌟💰](https://kapeli.com/dash) An API Documentation Browser and Code Snippet Manager.
-- GitBook
-- GitX-dev
-- [Hyper™](https://hyper.is/) A terminal built on web technologies with HTML/JS/CSS. Like Atom you can customise almost everything.
-- [Homebrew](https://github.com/Homebrew) The missing package manager for macOS (in Ruby).
-- Insomnia
-- iTerm 🌟
-- ndm
-- Postico
-- Sequel Pro
-- Sublime Text 🌟
+- __[Atom 🌟](https://atom.io/)__ – The hackable text editor for the 21st Century. It's slow but the comminity is awesome.
+- __[Cakebrew](https://github.com/brunophilipe/Cakebrew)__ – Manage your Homebrew formulas with style.
+- __[Dash 🌟💰](https://kapeli.com/dash)__ – An API Documentation Browser and Code Snippet Manager.
+- __[GitBook](https://www.gitbook.com/)__ – Create, write and organize documentation and books with your team.
+- __[GitX-dev](https://rowanj.github.io/gitx/)__ – Because sometimes you need a GUI to deal with git.
+- __[Hyper™](https://hyper.is/)__ – A terminal built on web technologies with HTML/JS/CSS. Like Atom you can customise almost everything.
+- __[Homebrew](https://github.com/Homebrew)__ – The missing package manager for macOS (in Ruby).
+- __[Insomnia](https://insomnia.rest/)__ – A beautifull REST client. Debug APIs like a human, not a robot.
+- __[iTerm 🌟](https://www.iterm2.com/)__ – A macOS terminal replacement with awesome features.
+- __[ndm](https://720kb.github.io/ndm/)__ – The Open Source npm desktop GUI.
+- __[Postico](https://eggerapps.at/postico/)__ – A modern PostgreSQL client.
+- __[Sequel Pro](https://www.sequelpro.com/)__ – Database management application for working with MySQL databases.
+- __[Sublime Text 🌟](https://www.sublimetext.com/)__ – A sophisticated text editor for code, markup and prose.
 
 ## Design
 
@@ -66,7 +66,7 @@ Here is the list of all the apps I use to be efficients as a front-end developer
 - Alfred 🌟
 - Amphetamine
 - AppCleaner
-- Disk Inventory X
+- CleanMyMac
 - Divvy
 - Dropbox
 - Evernote
