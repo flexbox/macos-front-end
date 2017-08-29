@@ -13,7 +13,7 @@ Here is the list of all the apps I use to be efficient as a __front-end develope
 - __[Dash 🌟💰](https://kapeli.com/dash)__ – An API Documentation Browser and Code Snippet Manager.
 - __[GitBook](https://www.gitbook.com/)__ – Create, write and organize documentation and books with your team.
 - __[GitX-dev](https://rowanj.github.io/gitx/)__ – Because sometimes you need a GUI to deal with git.
-- __[Hyper™](https://hyper.is/)__ – A terminal built on web technologies with HTML/JS/CSS. Like Atom you can customise almost everything.
+- __[Hyper™](https://hyper.is/)__ – A terminal built on web technologies. Like Atom you can customise almost everything.
 - __[Homebrew](https://github.com/Homebrew)__ – The missing package manager for macOS (in Ruby).
 - __[Insomnia](https://insomnia.rest/)__ – A beautifull REST client. Debug APIs like a human, not a robot.
 - __[iTerm 🌟](https://www.iterm2.com/)__ – A macOS terminal replacement with awesome features.
@@ -36,7 +36,7 @@ Here is the list of all the apps I use to be efficient as a __front-end develope
 
 ## Web
 
-- __[FirefoxDeveloperEdition](https://www.mozilla.org/com/firefox/developer/)__ – Firefox for web developers.
+- __[FirefoxDeveloperEdition](https://www.mozilla.org/firefox/developer/)__ – Firefox for web developers.
 - __[Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)__ – Fast, simple and secure web browser, built for the modern web.
 - __[Google Chrome Canary](https://www.google.com/chrome/browser/canary.html)__ – Google Chrome with a golden icon and preview for new debug tools.
 - __[Integrity 🛍](https://itunes.apple.com/fr/app/integrity/id513610341?l=en&mt=12)__ – Scan your website to find broken links.
