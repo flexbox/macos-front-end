@@ -6,9 +6,9 @@ Here is the list of all the apps I use to be efficient as a __front-end develope
 
 [![](macos-front-end.mindnode/QuickLook/Preview.jpg)](https://my.mindnode.com/zRQUDVrKyQGW2TxZ33k8szsZEynEsaoKHeLWx2XB)
 
-- Must Have 🌟
-- Paid version 💰
-- App Store 🛍
+- __Must Have__ 🌟
+- __Paid version__ 💰
+- __App Store__ 🛍
 
 ## Dev
 
@@ -72,7 +72,7 @@ Here is the list of all the apps I use to be efficient as a __front-end develope
 - __[AppCleaner](https://freemacsoft.net/appcleaner/)__ – AppCleaner finds unnecessarily files and safely deletes them.
 - __[CleanMyMac 💰](https://cleanmymac.com/)__ – The world's best Mac cleaner.
 - __[Dropbox](https://www.dropbox.com/downloading)__ – Keeps your files and your team in sync.
-- __[Evernote 🛍](https://itunes.apple.com/fr/app/evernote-stay-organized/id406056744?l=en&mt=12)__ – With Evernote on your desktop and mobile devices, your notes are always with you and always in sync.
+- __[Evernote 🛍](https://itunes.apple.com/fr/app/evernote-stay-organized/id406056744?l=en&mt=12)__ – Sync all your notes on desktop and mobile devices.
 - __[Flux](https://justgetflux.com/)__ – Warms up your computer display at night, to match your indoor lighting.
 - __[Grammarly](https://grammarly.com)__ – Free grammar checker instantly eliminates grammatical errors and enhances your writing.
 - __[Keybase](https://keybase.io/)__ – Public key crypto for everyone, publicly auditable proofs of identity.
