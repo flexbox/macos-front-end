@@ -6,6 +6,10 @@ Here is the list of all the apps I use to be efficient as a __front-end develope
 
 [![](macos-front-end.mindnode/QuickLook/Preview.jpg)](https://my.mindnode.com/zRQUDVrKyQGW2TxZ33k8szsZEynEsaoKHeLWx2XB)
 
+- Must Have 🌟
+- Paid version 💰
+- App Store 🛍
+
 ## Dev
 
 - __[Atom 🌟](https://atom.io/)__ – The hackable text editor for the 21st Century. It's slow but the comminity is awesome.
@@ -62,21 +66,19 @@ Here is the list of all the apps I use to be efficient as a __front-end develope
 
 ## Misc
 
-- 1password
-- Alfred 🌟
-- Amphetamine
-- AppCleaner
-- CleanMyMac
-- Divvy
-- Dropbox
-- Evernote
-- Flux
-- Grammarly
-- Keybase
-- [Product Hunt](https://github.com/producthunt/producthunt-osx/) Discover your next favorite thing, surfacing the latest in tech, books, games, and podcasts.
-- RecordIt
-- Rename
-- RescueTime
-- [Spectacle](https://github.com/eczarny/spectacle) Organize your windows without using a mouse.
-- [The Unarchiver 🛍](https://itunes.apple.com/us/app/the-unarchiver/id425424353?mt=12)
-- TogglDesktop
+- __[1password 🛍💰](https://itunes.apple.com/fr/app/1password-password-manager-and-secure-wallet/id443987910?l=en&mt=12)__ – Forget your passwords. 1Password remembers them all for you.
+- __[Alfred 🌟💰](https://www.alfredapp.com/)__ – Productivity app for macOS
+- __[Amphetamine 🛍](https://itunes.apple.com/fr/app/amphetamine/id937984704?l=en&mt=12)__ – Keep your mac awake.
+- __[AppCleaner](https://freemacsoft.net/appcleaner/)__ – AppCleaner finds unnecessarily files and safely deletes them.
+- __[CleanMyMac 💰](https://cleanmymac.com/)__ – The world's best Mac cleaner.
+- __[Dropbox](https://www.dropbox.com/downloading)__ – Keeps your files and your team in sync.
+- __[Evernote 🛍](https://itunes.apple.com/fr/app/evernote-stay-organized/id406056744?l=en&mt=12)__ – With Evernote on your desktop and mobile devices, your notes are always with you and always in sync.
+- __[Flux](https://justgetflux.com/)__ – Warms up your computer display at night, to match your indoor lighting.
+- __[Grammarly](https://grammarly.com)__ – Free grammar checker instantly eliminates grammatical errors and enhances your writing.
+- __[Keybase](https://keybase.io/)__ – Public key crypto for everyone, publicly auditable proofs of identity.
+- __[Product Hunt](https://github.com/producthunt/producthunt-osx/)__ – Discover your next favorite thing, surfacing the latest in tech, books, games, and podcasts.
+- __[RecordIt](http://recordit.co/)__ – Record screencasts fast & free! with GIF Support!
+- __[RescueTime](https://www.rescuetime.com)__ – Time management software.
+- __[Spectacle](https://github.com/eczarny/spectacle)__ – Organize your windows without using a mouse.
+- __[The Unarchiver 🛍](https://itunes.apple.com/us/app/the-unarchiver/id425424353?mt=12)__ – Free Unarchiving Software for macOS
+- __[TogglDesktop 🛍](https://itunes.apple.com/fr/app/toggl-desktop/id957734279?l=en&mt=12)__ – Descktop app for online time tracking.
