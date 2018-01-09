@@ -34,7 +34,7 @@ Here is the list of all the apps I use to be efficient as a __front-end develope
 - __[JPEGmini 🛍💰](https://itunes.apple.com/fr/app/jpegmini/id498944723?l=en&mt=12)__ – Reduce photo files size by up to 80% without compromising quality.
 - __[MindNode 🛍💰](https://itunes.apple.com/fr/app/mindnode-2-delightful-mind-mapping/id992076693?l=en&mt=12)__ – Delightful Mind Mapping for Mac, iPad & iPhone.
 - __[Photoshop 💰](http://www.photoshop.com/)__ – Raster graphics editor since 1988.
-- __[Sip 🌟](https://sipapp.io/)__ – The best color picker for Mac for collecting, organizing & sharing palettes.
+- __[Sip 🌟 💰](https://sipapp.io/)__ – The best color picker for Mac for collecting, organizing & sharing palettes.
 - __[Sketch 💰](https://www.sketchapp.com/)__ – Professional digital design for Mac.
 - __[Sketchpacks](https://www.sketchpacks.com/)__ – Browse, manage, and auto-update your Sketch plugins from the menu bar.
 
@@ -72,7 +72,6 @@ Here is the list of all the apps I use to be efficient as a __front-end develope
 - __[AppCleaner](https://freemacsoft.net/appcleaner/)__ – AppCleaner finds unnecessarily files and safely deletes them.
 - __[CleanMyMac 💰](https://cleanmymac.com/)__ – The world's best Mac cleaner.
 - __[Dropbox](https://www.dropbox.com/downloading)__ – Keeps your files and your team in sync.
-- __[Evernote 🛍](https://itunes.apple.com/fr/app/evernote-stay-organized/id406056744?l=en&mt=12)__ – Sync all your notes on desktop and mobile devices.
 - __[Flux](https://justgetflux.com/)__ – Warms up your computer display at night, to match your indoor lighting.
 - __[Grammarly](https://grammarly.com)__ – Free grammar checker instantly eliminates grammatical errors and enhances your writing.
 - __[Keybase](https://keybase.io/)__ – Public key crypto for everyone, publicly auditable proofs of identity.
@@ -82,3 +81,4 @@ Here is the list of all the apps I use to be efficient as a __front-end develope
 - __[Spectacle](https://github.com/eczarny/spectacle)__ – Organize your windows without using a mouse.
 - __[The Unarchiver 🛍](https://itunes.apple.com/us/app/the-unarchiver/id425424353?mt=12)__ – Free Unarchiving Software for macOS
 - __[TogglDesktop 🛍](https://itunes.apple.com/fr/app/toggl-desktop/id957734279?l=en&mt=12)__ – Descktop app for online time tracking.
+- __[Ulysse 🛍 💰](https://itunes.apple.com/us/app/ulysses/id1225570693?mt=12)__ – One of the best experience available for writing content. Start with markdown and export everywhere.

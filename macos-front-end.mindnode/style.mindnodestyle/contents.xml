@@ -13,7 +13,7 @@
 			<key>borderStrokeStyle</key>
 			<dict>
 				<key>color</key>
-				<string>{0.822000, 0.084000, 0.348000, 1.000000}</string>
+				<string>{1.000000, 0.742000, 0.041000, 1.000000}</string>
 				<key>dash</key>
 				<integer>0</integer>
 				<key>width</key>
@@ -27,7 +27,7 @@
 		<key>strokeStyle</key>
 		<dict>
 			<key>color</key>
-			<string>{0.822000, 0.084000, 0.348000, 1.000000}</string>
+			<string>{1.000000, 0.742000, 0.041000, 1.000000}</string>
 			<key>dash</key>
 			<integer>0</integer>
 			<key>width</key>
