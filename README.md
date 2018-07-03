@@ -4,7 +4,7 @@ Here is the list of all the apps I use to be efficient as a __front-end develope
 
 > Design better, code faster & ship daily.
 
-[![](macos-front-end.mindnode/QuickLook/Preview.jpg)](https://my.mindnode.com/zRQUDVrKyQGW2TxZ33k8szsZEynEsaoKHeLWx2XB)
+[![](macos-front-end.mindnode/QuickLook/Preview.jpg)](http://bit.ly/macos-front-end)
 
 - __Must Have__ 🌟
 - __Paid version__ 💰
@@ -28,6 +28,7 @@ Here is the list of all the apps I use to be efficient as a __front-end develope
 
 ## Design
 
+- __[Figma](https://www.figma.com/downloads/)__ – Design, prototype, and gather feedback all in one place with Figma.
 - __[Google Photos](https://photos.google.com/apps)__ – Free, unlimited storage for photos up to 16 megapixels and videos up to 1080p resolution.
 - __[ImageAlpha](https://pngmini.com/)__ – Reduces file sizes of 24-bit `PNG`.
 - __[ImageOptim](https://imageoptim.com/)__ – Excellent tool for publishing images on the web.
