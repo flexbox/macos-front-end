@@ -18,13 +18,15 @@ Here is the list of all the apps I use to be efficient as a __front-end develope
 - __[GitBook](https://www.gitbook.com/)__ – Create, write and organize documentation and books with your team.
 - __[GitX-dev](https://rowanj.github.io/gitx/)__ – Because sometimes you need a GUI to deal with git.
 - __[Hyper™](https://hyper.is/)__ – A terminal built on web technologies. Like Atom you can customise almost everything.
-- __[Homebrew](https://github.com/Homebrew)__ – The missing package manager for macOS (in Ruby).
+- __[Homebrew](https://brew.sh/)__ – The missing package manager for macOS (in Ruby).
 - __[Insomnia](https://insomnia.rest/)__ – A beautifull REST client. Debug APIs like a human, not a robot.
 - __[iTerm 🌟](https://www.iterm2.com/)__ – A macOS terminal replacement with awesome features.
 - __[ndm](https://720kb.github.io/ndm/)__ – The Open Source npm desktop GUI.
+- __[oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)__ - A delightful community-driven framework for managing your zsh configuration.
 - __[Postico](https://eggerapps.at/postico/)__ – A modern PostgreSQL client.
 - __[Sequel Pro](https://www.sequelpro.com/)__ – Database management application for working with MySQL databases.
 - __[Sublime Text 🌟](https://www.sublimetext.com/)__ – A sophisticated text editor for code, markup and prose.
+- __[Visual Studio Code](https://code.visualstudio.com/Download)__ - Visual Studio Code is a source code editor developed by Microsoft for Windows, Linux and macOS.
 
 ## Design
 
