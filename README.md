@@ -38,7 +38,7 @@ Here is the list of all the apps I use to be efficient as a __front-end develope
 - __[MindNode 🛍💰](https://itunes.apple.com/fr/app/mindnode-2-delightful-mind-mapping/id992076693?l=en&mt=12)__ – Delightful Mind Mapping for Mac, iPad & iPhone.
 - __[Photoshop 💰](http://www.photoshop.com/)__ – Raster graphics editor since 1988.
 - __[Sip 🌟 💰](https://sipapp.io/)__ – The best color picker for Mac for collecting, organizing & sharing palettes.
-- __[Sketch 💰](https://www.sketchapp.com/)__ – Professional digital design for Mac.
+- __[Sketch 💰](https://www.sketchapp.com/get/)__ – Professional digital design for Mac.
 - __[Sketchpacks](https://www.sketchpacks.com/)__ – Browse, manage, and auto-update your Sketch plugins from the menu bar.
 
 ## Web
