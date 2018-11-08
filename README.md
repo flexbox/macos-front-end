@@ -30,7 +30,7 @@ Here is the list of all the apps I use to be efficient as a __front-end develope
 
 ## Design
 
-- __[Figma](https://www.figma.com/downloads/)__ – Design, prototype, and gather feedback all in one place with Figma.
+- __[Figma 🌟](https://www.figma.com/downloads/)__ – Design, prototype, and gather feedback all in one place with Figma.
 - __[Google Photos](https://photos.google.com/apps)__ – Free, unlimited storage for photos up to 16 megapixels and videos up to 1080p resolution.
 - __[ImageAlpha](https://pngmini.com/)__ – Reduces file sizes of 24-bit `PNG`.
 - __[ImageOptim](https://imageoptim.com/)__ – Excellent tool for publishing images on the web.
