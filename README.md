@@ -80,5 +80,5 @@ Here is the list of all the apps I use to be efficient as a **front-end develope
 - **[Keybase](https://keybase.io/)** – Public key crypto for everyone, publicly auditable proofs of identity.
 - **[Product Hunt](https://github.com/producthunt/producthunt-osx/)** – Discover your next favorite thing, surfacing the latest in tech, books, games, and podcasts.
 - **[RecordIt](http://recordit.co/)** – Record screencasts fast & free! with GIF Support!
-- **[Spectacle](https://github.com/eczarny/spectacle)** – Organize your windows without using a mouse.
+- **[Rectangle](https://rectangleapp.com/)** – Organize your windows without using a mouse.
 - **[Ulysse 🛍 💰](https://itunes.apple.com/us/app/ulysses/id1225570693?mt=12)** – One of the best experience available for writing content. Start with markdown and export everywhere.
