@@ -66,7 +66,7 @@ Here is the list of all the apps I use to be efficient as a **front-end develope
 - **[AppCleaner](https://freemacsoft.net/appcleaner/)** – AppCleaner finds unnecessarily files and safely deletes them.
 - **[CleanShot X 💰](https://go.setapp.com/invite/ibubjrhl)** – Same as native screenshots but better.
 - **[CleanMyMac 🌟💰](https://go.setapp.com/invite/ibubjrhl)** – The world's best Mac cleaner.
-- **[Dozer](https://dozermac.com/)** – Hide menu bar icons.
+- **[Dozer](https://github.com/Mortennn/Dozer)** – Hide menu bar icons.
 - **[Dropbox](https://www.dropbox.com/downloading)** – Keeps your files and your team in sync.
 - **[Flux](https://justgetflux.com/)** – Warms up your computer display at night, to match your indoor lighting.
 - **[Gifox 💰](https://go.setapp.com/invite/ibubjrhl)** – Delightful GIF Recording and Sharing App.
